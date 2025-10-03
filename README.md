@@ -1,25 +1,49 @@
-# How-to-open-minecraft-server-on-phone
-1.You should download app termux in playstore.
-(I don't know app store has it or not.)
+ได้เลย! ผมปรับให้เป็น ภาษาอังกฤษ อ่านง่าย พร้อมใส่อีโมจ 😎
 
-2.Go to your google chrome and search and download server.jar that your want
-(java,papermc,utc)
 
-3.Create folder in phone
-(Don't create in sdcard)
-name folder something that you want.
-(MC,minecraft server)
+---
 
-4.Put the server.jar flies 
-(which you install from google chrome)
-in to the folder that you create.
+How to Open a Minecraft Server on Your Phone 📱⛏️
 
-5.Open termux and download java in it.
+1. Install Termux 📝
+Download the Termux app from Play Store.
+(Not sure if it's available on App Store)
 
-6.Use cd command to goto folder that you create.
 
-7.Run "java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.8.jar nogui"
-in termux.
+2. Download Minecraft Server 💾
+Open Google Chrome and search for the server.jar file you want
+(Java, PaperMC, UTC, etc.)
 
-8.Test your server by using ip 
-"localhost" .
+
+3. Create a Folder on Your Phone 📂
+Make a new folder in your phone’s internal storage (don’t use SD card)
+Name it whatever you like, e.g., MC or MinecraftServer.
+
+
+4. Move Server File 🚚
+Put the server.jar file you downloaded into the folder you just created.
+
+
+5. Install Java in Termux ☕
+Open Termux and type:
+
+pkg update
+pkg install openjdk-17
+
+
+6. Go to Your Server Folder 🗂️
+Use the cd command to navigate to your server folder:
+
+cd /path/to/your/folder
+
+
+7. Run the Server ▶️
+Start your server with this command:
+
+java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.8.jar nogui
+
+
+8. Test Your Server ✅
+Use the IP localhost to connect and test the server on your phone.
+
+---

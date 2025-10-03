@@ -42,3 +42,4 @@ java -Xmx1024M -Xms1024M -jar minecraft_server.1.21.8.jar nogui
 Use the IP localhost to connect and test the server on your phone.
 
 ---
+Tech by B dev

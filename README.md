@@ -1,4 +1,4 @@
-#How to Open a Minecraft Server on Your Phone 📱⛏️
+##How to Open a Minecraft Server on Your Phone 📱⛏️
 
 1. Install Termux 📝
 Download the Termux app from Play Store.

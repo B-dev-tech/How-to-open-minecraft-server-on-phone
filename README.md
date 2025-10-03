@@ -1,9 +1,4 @@
-ได้เลย! ผมปรับให้เป็น ภาษาอังกฤษ อ่านง่าย พร้อมใส่อีโมจ 😎
-
-
----
-
-How to Open a Minecraft Server on Your Phone 📱⛏️
+#How to Open a Minecraft Server on Your Phone 📱⛏️
 
 1. Install Termux 📝
 Download the Termux app from Play Store.
